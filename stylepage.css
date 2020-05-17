@@ -10,15 +10,34 @@ th,td{
     text-align: center ;
     }
 th {
-      background-color: lightgray;
+      background-color: #9e93db;
+
     }
+td{
+  background-color: white;
+}
  li {
    font-weight: bold;
 
   }
+ul li{
+  text-align: center;
+}
 
-  img{
+  body{
+    background-color:#e6e6e6;
+  }
+
+  @media (min-width: 500px) {img{
     length: 40%;
-    width: 60%;
+    width: 60%;}
+  }
+
+  @media (max=width:499px)  {
+    img {
+      length: 30;
+      width: 50;
+    }
 
   }
+  

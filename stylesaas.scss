@@ -1,0 +1,21 @@
+%message {
+          display:block;
+          margin-left: auto;
+          margin-right: auto;
+          }
+
+
+div {
+  font-style: italic ;
+  background:#f0f0f0 ;
+    ul {
+      color: #041629 ;
+
+    }
+
+}
+
+.center{
+  @extend %message;
+  width: 50%;
+}

@@ -1,1 +1,2 @@
 # project0
+ This basic implementation of lecture 0 and lecture1 .In this website I have shown my interest in cars , by explaining cars that had an impact on this world.Every page has button tab to navigate through each pages. There are 5 pages in total including the index pages .I have tried to incorporate all the requirements listed for project0.there are 2 style pages , 1 which is an output of the scss file.Images required for the html pages are also included.
